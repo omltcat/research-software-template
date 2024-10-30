@@ -7,6 +7,7 @@ on:
     paths:
       - docs/**
       - .github/workflows/gh-pages.yml
+      - mkdocs.yml
 permissions:
   contents: write
 jobs:
