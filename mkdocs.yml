@@ -1,0 +1,122 @@
+## Before editing this file, you should configure your VS Code with this to avoid breaking it:
+# https://squidfunk.github.io/mkdocs-material/creating-your-site/#configuration
+
+site_name: Research Software Template # Change this to the name of your project
+site_url: https://omltcat.github.io/research-software-template/
+#                 ^^^^^^^           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+# Change to: Your GitHub Username       Your Repository Name
+site_author: Your Name
+site_description: >-
+  This is a template.
+  Describe your project in a few sentences.
+
+# Your repository information
+repo_name: omltcat/research-software-template
+repo_url: https://github.com/omltcat/research-software-template
+
+
+# Page Structure
+# All files are relative to the 'docs' directory
+# Change these to better fit your project
+nav:
+  - Home: index.md
+  - User Guide:
+    - user-guide/index.md
+    - Quick Start: user-guide/1-quick-start.md
+    - Installation: user-guide/2-installation.md
+    - Configuration: user-guide/3-configuration.md
+    - Usage: user-guide/4-usage.md
+    - Support: user-guide/99-support.md
+  - Development:
+    - development/index.md
+    - Common Info: development/common-info.md
+    - Background:
+      - Problem Statement: development/1-background/1-problem-statement.md
+      - Goals: development/1-background/2-goals.md
+      - Literatures: development/1-background/3-literatures.md
+    - Requirements:
+      - Introduction: development/2-requirements/1-intro.md
+    - Testing:
+      - V&V Plan:
+        - Indroduction: development/3-testing/vnv-plan/1-intro.md
+        - System Test: development/3-testing/vnv-plan/2-system-test.md
+        - Unit Test: development/3-testing/vnv-plan/3-unit-test.md
+      - V&V Report: development/3-testing/vnv-report.md
+    - Design:
+      - Introduction: development/4-design/1-intro.md
+    - References: development/references.md
+
+
+# Read this first if you want to change settings below
+# https://squidfunk.github.io/mkdocs-material/setup/
+theme:
+  name: material
+  # Palette toggle for light mode
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    # - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    # - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    # - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.path
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+
+plugins:
+  - search:
+  - bibtex:
+      bib_file: docs/references.bib
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - footnotes
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+  # You can switch to MathJax if you need more syntax support
+  # - javascripts/mathjax.js
+  # - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
