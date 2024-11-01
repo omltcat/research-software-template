@@ -44,7 +44,6 @@ nav:
       - V&V Report: development/3-testing/vnv-report.md
     - Design:
       - Introduction: development/4-design/1-intro.md
-    - References: development/references.md
 
 
 # Read this first if you want to change settings below
@@ -99,6 +98,8 @@ plugins:
       bib_file: docs/references.bib
 
 markdown_extensions:
+  - toc:
+      permalink: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.highlight:
@@ -111,6 +112,7 @@ markdown_extensions:
   - footnotes
 
 extra_javascript:
+  - javascripts/issues.js
   - javascripts/katex.js
   - https://unpkg.com/katex@0/dist/katex.min.js
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
