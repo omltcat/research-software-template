@@ -3,8 +3,9 @@
 
 site_name: Research Software Template # Change this to the name of your project
 site_url: https://omltcat.github.io/research-software-template/
-#                 ^^^^^^^           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-# Change to: Your GitHub Username       Your Repository Name
+# Change these    ^^^^^^^           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+#           Your GitHub Username       Your Repository Name
+
 site_author: Your Name
 site_description: >-
   This is a template.
@@ -14,40 +15,10 @@ site_description: >-
 repo_name: omltcat/research-software-template
 repo_url: https://github.com/omltcat/research-software-template
 
-
-# Page Structure
-# All files are relative to the 'docs' directory
-# Change these to better fit your project
-nav:
-  - Home: index.md
-  - User Guide:
-    - user-guide/index.md
-    - Quick Start: user-guide/1-quick-start.md
-    - Installation: user-guide/2-installation.md
-    - Configuration: user-guide/3-configuration.md
-    - Usage: user-guide/4-usage.md
-    - Support: user-guide/99-support.md
-  - Development:
-    - development/index.md
-    - Common Info: development/common-info.md
-    - Background:
-      - Problem Statement: development/1-background/1-problem-statement.md
-      - Goals: development/1-background/2-goals.md
-      - Literatures: development/1-background/3-literatures.md
-    - Requirements:
-      - Introduction: development/2-requirements/1-intro.md
-    - Testing:
-      - V&V Plan:
-        - Indroduction: development/3-testing/vnv-plan/1-intro.md
-        - System Test: development/3-testing/vnv-plan/2-system-test.md
-        - Unit Test: development/3-testing/vnv-plan/3-unit-test.md
-      - V&V Report: development/3-testing/vnv-report.md
-    - Design:
-      - Introduction: development/4-design/1-intro.md
-
-
+#######################################################
 # Read this first if you want to change settings below
 # https://squidfunk.github.io/mkdocs-material/setup/
+#######################################################
 theme:
   name: material
   # Palette toggle for light mode
@@ -84,8 +55,8 @@ theme:
     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
-    - navigation.path
-    - navigation.tracking
+    # - navigation.path
+    # - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
@@ -96,6 +67,9 @@ plugins:
   - search:
   - bibtex:
       bib_file: docs/references.bib
+  - literate-nav:
+      nav_file: README.md
+  - git-revision-date-localized
 
 markdown_extensions:
   - toc:
@@ -109,6 +83,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - abbr
   - footnotes
 
 extra_javascript:
