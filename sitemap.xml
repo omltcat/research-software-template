@@ -2,74 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://omltcat.github.io/research-software-template/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/common-info/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/glossary/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/1-background/1-problem-statement/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/1-background/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/1-background/2-goals/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/1-background/goals/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/1-background/3-literatures/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/1-background/literatures/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/2-requirements/1-intro/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/1-background/problem/</loc>
+         <lastmod>2024-11-11</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/development/2-requirements/</loc>
+         <lastmod>2024-11-11</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/development/2-requirements/intro/</loc>
+         <lastmod>2024-11-11</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/development/3-testing/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-report/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-plan/1-intro/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-plan/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-plan/2-system-test/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-plan/system-test/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-plan/3-unit-test/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-plan/unit-test/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/development/4-design/1-intro/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/development/4-design/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/user-guide/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/user-guide/1-quick-start/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/user-guide/configuration/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/user-guide/2-installation/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/user-guide/faq/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/user-guide/3-configuration/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/user-guide/installation/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/user-guide/4-usage/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/user-guide/quick-start/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
     <url>
-         <loc>https://omltcat.github.io/research-software-template/user-guide/99-support/</loc>
-         <lastmod>2024-11-01</lastmod>
+         <loc>https://omltcat.github.io/research-software-template/user-guide/support/</loc>
+         <lastmod>2024-11-11</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/user-guide/usage/</loc>
+         <lastmod>2024-11-11</lastmod>
     </url>
 </urlset>
