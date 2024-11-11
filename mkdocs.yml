@@ -5,6 +5,7 @@ site_name: Research Software Template # Change this to the name of your project
 site_url: https://omltcat.github.io/research-software-template/
 # Change these    ^^^^^^^           ^^^^^^^^^^^^^^^^^^^^^^^^^^
 #           Your GitHub Username       Your Repository Name
+# This should be your GitHub Pages URL
 
 site_author: Your Name
 site_description: >-

@@ -14,7 +14,7 @@ GitHub Actions is already setup to build for GitHub Pages. You should enable Git
 You need to have Python installed
 ```bash
 # Install the required packages
-pip install mkdocs mkdocs-material mkdocs-bibtex
+pip install mkdocs-material mkdocs-bibtex mkdocs-literate-nav mkdocs-git-revision-date-localized-plugin
 # Start a preview server with live-reloading
 mkdocs serve
 ```
