@@ -154,3 +154,11 @@ Typical parallel and sequential calculation
 #### If other models are provided, how do you expect the results to differ in certain special cases?
 
 #### Are there any simple/degenerate/special cases that we can use to test the software?
+
+## Finishing Remarks
+Domain expert, please give any feedback on the notes either now or in the next few days. The developer will then proceed to write formal documentation based on these notes.
+
+#### Question to the domain expert
+Based on all the questions asked and information you have provided, are you confident that the developer will have a good understanding of the problem domain and the model to implement the software?  
+
+Do you think there is still any gap in information that we need to fill?
