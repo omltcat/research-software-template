@@ -11,7 +11,8 @@ if (repoLink) {
         if (path === "/") {
             path = "home page";
         }
-        var issueUrl = repoUrl + "/issues/new?title=Issue%20at%20" + encodeURIComponent(header.getAttribute('href')) + "%20from%20" + encodeURIComponent(path) + "&body=Document%20link%20" + encodeURIComponent(window.location.href);
+        var section = encodeURIComponent(header.getAttribute('href'));
+        var issueUrl = repoUrl + "/issues/new?title=Issue%20at%20" + section + "%20from%20" + encodeURIComponent(path) + "&body=Document%20link%20" + encodeURIComponent(window.location.href) + section + "&labels=documentation";
         var issueLink = document.createElement("a");
         issueLink.href = issueUrl;
         issueLink.title = "Report an issue";
