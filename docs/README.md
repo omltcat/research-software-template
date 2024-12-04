@@ -70,6 +70,7 @@ multiple citations [\@SmithAndKoothoor2016; \@Parnas1978]
 - [**Home**](README.md)
 - [User Guide](user-guide/)
 - [Development](development/)
+- [Template Guide](template/)
 
 The list at the very end of the README.md at each level will be used to generate the structure of the docs site at that level. While technically the MkDocs can generate the structure from the file system, it is recommended to use the list in the README.md to have more control over the structure. People visiting the GitHub repository will be able to see the structure via the links as you intended.
 
