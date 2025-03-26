@@ -120,6 +120,7 @@ Typical parallel and sequential calculation
 
 #### Does the model require any additional data to function? 
 > This can be fixed or tabulated coefficients, tweaking parameters, etc.
+
 > - If so, is the user responsible to provide these for their specific use case, or should we include them in the software?
 > - If we were to include them in the software, where do we get these data from? Are they from any literature, your own experiments, etc.?
 

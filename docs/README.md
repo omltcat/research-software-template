@@ -7,7 +7,17 @@ Write all your documents in [Markdown format](https://www.markdownguide.org/basi
 Documents on the site generator used: [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 ## Publishing your docs site
-GitHub Actions is already setup to build for GitHub Pages. You should enable GitHub Pages in your repository settings and point to the `gh-pages` branch.
+GitHub Actions is already setup to automatically build and deploy this GitHub Pages website whenever you push to the `docs` directory. But you still need to enable GitHub Pages for your repository first:
+
+1. Go to your repo settings
+2. On the left sidebar, click on "Pages".
+3. Under "Source", select "Deploy from a branch".
+4. Choose the `gh-pages` branch and `/(root)`.
+5. Click "Save".
+
+The exact GitHub Actions configuration file is located at `.github/workflows/gh-pages.yml`.
+You can refer to it as an example for setting up Continuous Integration (CI) for your project.
+More language-specific examples for setting up automatic testing using GitHub Actions can be found [here](https://docs.github.com/en/actions/use-cases-and-examples).
 
 ## Preview your site locally
 
