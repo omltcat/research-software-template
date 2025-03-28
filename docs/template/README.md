@@ -5,3 +5,4 @@ It contains condensed information from the original thesis. You may hide this se
 
 - [**Template Guide**](README.md)
 - [First Meeting](first-meeting.md)
+- [Meeting Evaluation](eval-meeting/)

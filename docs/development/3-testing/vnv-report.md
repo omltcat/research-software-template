@@ -7,7 +7,14 @@
 ### Functional Requirements
 
 ### Non-functional Requirements
+> If you have done some more "open-ended" testing, like trials with human subjects, you can write the results here.
 
-#### Accuracy
-Req.: [NFR1](../2-requirements/non-functional-req.md#accuracy)  
-Test Case: [NFRT1](../3-testing/system/NFRT1.md)
+## Unit Test
+> Since you will most likely be using some automatic test tool, you can just say all tests passed (if that is actually the case), and link to the test cases and results.
+
+## Changes Due to Testing
+> Document any major changes as a result of testing.
+
+## Code Coverage
+> If you used a code coverage tool, mention the results here.  
+> For any significant parts of the code that are not covered, explain why.

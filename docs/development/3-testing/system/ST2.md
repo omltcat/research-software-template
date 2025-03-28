@@ -1,6 +1,7 @@
-# System Test 1: Test Name
+# System Test 2: Test Name
 
 ## Description
+> If possible, draw a diagram to better illustrate system in the test condition.
 
 ### Procedure
 - Control: Automatic/Manual

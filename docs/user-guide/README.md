@@ -15,3 +15,4 @@ You need to provide/know/able to...
 - [Usage](usage.md)
 - [FAQ](faq.md)
 - [Support](support.md)
+- [Evaluation*](evaluation.md)

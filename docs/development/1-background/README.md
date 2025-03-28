@@ -5,3 +5,4 @@
 - [Goals](goals.md)
 - [Literatures](literatures.md)
 - [Feasibility](feasibility.md)
+- [Quick References](quick-ref.md)

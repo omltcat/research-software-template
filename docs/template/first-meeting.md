@@ -163,3 +163,8 @@ Domain expert, please give any feedback on the notes either now or in the next f
 Based on all the questions asked and information you have provided, are you confident that the developer will have a good understanding of the problem domain and the model to implement the software?  
 
 Do you think there is still any gap in information that we need to fill?
+
+## Evaluation
+The developers and domain experts are encouraged to evaluate the software development process at various phases. This may help them catch any misunderstandings or shortcomings not brought up with issue-reporting mechanisms. It also helps us to improve our development framework.
+
+[**Meeting Note Evaluation**](eval-meeting/README.md)

@@ -3,7 +3,7 @@ Papers, articles, and books that are relevant to the problem and proposed soluti
 
 > Use this page to document potentially useful literatures and what each of them is about.  
 > Make sure to put their $\LaTeX$ reference in `references.bib` for citation from anywhere on this website.  
-> Put key concepts as bullet points in [Glossary](../glossary.md) for quick reference, so that non-domain readers can quickly grasp the domain specific terms and concepts and not have to read through entire papers to understand the documents.  
+> Put key concepts as bullet points in [Quick References](quick-ref.md) for quick reference, so that non-domain readers can quickly grasp the domain specific terms and concepts and not have to read through entire papers to understand the documents.  
 
 > Change the categorization of the literatures as needed.
 

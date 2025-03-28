@@ -21,3 +21,4 @@ At its core, it leverages the theory of... by ... [@CITATION].
 - [Instance Models](instance-models/)
 - [Functional Req.](functional-req.md)
 - [Non-Functional Req.](non-functional-req.md)
+- [Evaluation*](evaluation.md)

@@ -1,5 +1,9 @@
-# Glossary
-For easy reference across all documents.
+# Quick References
+For easy reference across all documents.  
+All documents about this project should use the same notations, symbols, and abbreviations as listed here.
+
+!!! tip
+    You would grow this page as you write more documents and gain more insights into the domain. Do not worry about getting everything right the first time. You can always come back and update this page.
 
 ## Units of Measurement
 | Symbol | Unit | Description |

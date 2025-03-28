@@ -20,8 +20,8 @@ The differential equation describes the change in velocity at each time step ($\
 ## Notes
 
 ## Uses
-[TM1: Velocity ODE](../theoretical-models/TM1.md)
-[TM2: Drag Force](../theoretical-models/TM2.md)
-[DD1: Sum of Forces](../data-definitions/DD1.md)
+[TM1](../theoretical-models/TM1.md), 
+[TM2](../theoretical-models/TM2.md), 
+[DD1](../data-definitions/DD1.md)
 
 ## Referenced by
