@@ -2,154 +2,186 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://omltcat.github.io/research-software-template/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/</loc>
-         <lastmod>2025-03-26</lastmod>
-    </url>
-    <url>
-         <loc>https://omltcat.github.io/research-software-template/development/glossary/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/1-background/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/1-background/feasibility/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/1-background/goals/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/1-background/literatures/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/1-background/problem/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/development/1-background/quick-ref/</loc>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/assumptions/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/development/2-requirements/evaluation/</loc>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/functional-req/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/non-functional-req/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/software-scope/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/system-description/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/data-definitions/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/data-definitions/DD1/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/instance-models/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/instance-models/IM1/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/theoretical-models/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/theoretical-models/TM1/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/2-requirements/theoretical-models/TM2/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/3-testing/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/development/3-testing/evaluation/</loc>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-plan/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/3-testing/vnv-report/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/3-testing/system/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/3-testing/system/NFRT1/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/3-testing/system/ST1/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/development/3-testing/system/ST2/</loc>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/3-testing/unit/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/development/4-design/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/development/4-design/M1/</loc>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/template/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/template/first-meeting/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/template/eval-meeting/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/template/eval-meeting/BIQ1-DE/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/template/eval-meeting/BIQ1-dev/</loc>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/user-guide/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/user-guide/configuration/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://omltcat.github.io/research-software-template/user-guide/evaluation/</loc>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/user-guide/faq/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/user-guide/installation/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/user-guide/quick-start/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/user-guide/support/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
     <url>
          <loc>https://omltcat.github.io/research-software-template/user-guide/usage/</loc>
-         <lastmod>2025-03-26</lastmod>
+         <lastmod>2025-03-28</lastmod>
     </url>
 </urlset>
